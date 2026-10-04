@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+.env
+.vscode/
+app copy.py
+app_backup.py
+app_backup1.py
