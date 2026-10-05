@@ -86,5 +86,4 @@ Organization
 
 AI was used during development for code assistance and debugging.
 
-Percentage of AI used: Enter the actual percentage according to the
-college/HOD requirement.
+Percentage of AI used: 45%
